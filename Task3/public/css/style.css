@@ -1,0 +1,13 @@
+body{
+    background-color: #eee;
+}
+.taskContainer{ 
+    display: flex;
+    flex-wrap: wrap;
+}
+.task{
+    flex-basis:25%;
+    border: 2px solid black;
+    margin:2%;
+    padding: 1%;
+}
