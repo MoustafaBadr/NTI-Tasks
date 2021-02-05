@@ -1,0 +1,17 @@
+User > Admin   => 0
+     > Teacher => 1
+     > Student => 2
+     
+     Admin can => show All Users
+               => get single user by id
+               => update single user by id
+               => delete single user by id
+               => change user type
+               => view all users posts created
+               => delete any post with it`s id
+               
+
+     (Teacher,Student) => Create new post
+                       => update,delete any post he created earlier
+                       => upload img for specific post
+                       => edit his profile
